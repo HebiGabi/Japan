@@ -1,0 +1,89 @@
+p{
+    color:black
+}
+p{
+    text-align: justify;
+
+}
+h1{
+    color:red
+    
+}
+h1{
+    text-align: center;
+    font-size: 260%;
+
+}
+body{
+    background-image: url(jpão.webp);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    text-justify:auto
+
+}
+img{
+    width: 20%;
+}
+.nome{
+    font-size: 160%;
+}
+.bob{
+    font-size: 180%;
+}
+.gat{
+    font-size: 140%; 
+}
+.L{
+    font-size: 150%;  
+}
+.kk{
+    width: 50%;
+}
+table, tr, td{
+    border: 5px solid red;
+    padding: px 4px;
+    font-size: 20px;
+    margin:auto; /* Centraliza sua tabela */
+
+    
+}
+.BG{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-weight: bold;
+}
+.geral{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+#menu ul{
+    list-style: none;
+    padding: 0;
+    background-color:red;
+
+}
+#menu ul li{
+    display: inline;
+
+}
+#menu ul li a{
+    display: inline;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    transition: background, 2s;
+}
+#menu ul li a:hover{
+    background-color: rgb(158, 76, 235);
+}
+.PP{
+    text-decoration: underline;
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+}
+

@@ -1,0 +1,91 @@
+p{
+    color:black
+}
+p{
+    text-align: justify;
+
+}
+.GG{
+    width: 500px;
+    position: absolute;
+    left: 30%;
+    top: 14%;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20PX;
+
+    
+}
+h1{
+    color:rgb(77, 3, 27)
+    
+}
+h1{
+    text-align: center;
+    font-size: 260%;
+}
+body{
+    background-image: url(jpão.webp);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+
+}
+.geral{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:20px
+}
+.HH{
+    text-decoration: underline;
+}
+.C{
+    text-decoration: underline;
+    text-align:center;
+    margin: 20px;
+    color: rgb(1, 110, 7);
+    font-size: 35px;
+}
+img{
+    text-align: center;
+    width: 500px;
+}
+.JJ{
+    text-align: center;
+    font-weight: bold;
+    margin: 20PX;
+    width: 500px;
+    position: absolute;
+    font-style: italic;
+    left: 30%;
+    font-size: 22px;
+    text-align: justify;
+}
+.oo{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    text-align: justify;
+    margin: 18px;
+}
+.kk{
+    width: 50%; 
+}
+.OO{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    text-align: justify;
+    margin: 18px;
+    text-decoration: underline;
+}
+.PP{
+    text-decoration: underline;
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+}
